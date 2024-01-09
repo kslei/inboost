@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inboost/static/css/main.f1ddb0fd.css",
+    "main.js": "/inboost/static/js/main.ab4439af.js",
+    "static/media/Ibmplexsans.ttf": "/inboost/static/media/Ibmplexsans.7672cca4b685da1f771f.ttf",
+    "index.html": "/inboost/index.html",
+    "main.f1ddb0fd.css.map": "/inboost/static/css/main.f1ddb0fd.css.map",
+    "main.ab4439af.js.map": "/inboost/static/js/main.ab4439af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ddb0fd.css",
+    "static/js/main.ab4439af.js"
+  ]
+}
